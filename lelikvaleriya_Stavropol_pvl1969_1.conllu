@@ -1,0 +1,131 @@
+# sent_id = 6
+# text = @vpl@
+1	@vpl@	@vpl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 7
+# text = расскажи как ты познакомился со своей женой
+1	расскажи	рассказать	VERB	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	как	как	SCONJ	_	_	3	mark	_	_
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	1	acl	_	_
+4	познакомился	знакомиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	со	с	ADP	_	_	7	case	_	_
+6	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	7	det	_	_
+7	женой	жена	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	SpacesAfter=\n\n
+
+# sent_id = 8
+# text = @pvl@
+1	@pvl@	@pvl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 9
+# text = со своей женой я познакомился в ссс / когда мы были на отдыхе в санатории и / мы познакомились на волейбольной площадке / где мы играли в волейбол
+1	со	с	ADP	_	_	3	case	_	_
+2	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	3	det	_	_
+3	женой	жена	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+4	я	я	PRON	_	INTJ	5	nsubj	_	_
+5	познакомился	знакомиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	ссс	ссс	INTG	5	obl	_	_
+8	/	/	PUNCT	_	_	13	punct	_	_
+9	когда	когда	SCONJ	_	_	13	mark	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	13	nsubj	_	_
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	отдыхе	отдых	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	санатории	санаторий	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	_
+16	и	и	CCONJ	_	_	19	cc	_	_
+17	/	/	PUNCT	_	_	19	punct	_	_
+18	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	19	nsubj	_	_
+19	познакомились	знакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	волейбольной	волейбольный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	площадке	площадка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+23	/	/	PUNCT	_	_	26	punct	_	_
+24	где	где	SCONJ	_		26	advmod	_	_
+25	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	26	nsubj	_	_
+26	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	волейбол	волейбол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obl	_	SpacesAfter=\n\n
+
+# sent_id = 10
+# text = @vpl@
+1	@vpl@	@vpl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 11
+# text = но вы же / я так понимаю / приехали из разных городов / как удавалось потом продолжить общение?
+1	но	но	CCONJ	_	_	9	cc	_	_
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	9	nsubj	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	/	/	PUNCT	_	_	9	punct	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	7	nsubj	_	_
+6	так	так	ADV	_	Degree=Pos	7	advmod	_	_
+7	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+8	/	/	PUNCT	_	_	7	punct	_	_
+9	приехали	приехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	из	из	ADP	_	_	12	case	_	_
+11	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	городов	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	_
+13	/	/	PUNCT	_	_	15	punct	_	_
+14	как	как	ADV _ Degree=Pos	_	_	15	mark	_	_
+15	удавалось	удаваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	advcl	_	_
+16	потом	потом	ADV	_	Degree=Pos	17	advmod	_	_
+17	продолжить	продолжить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	csubj	_	_
+18	общение	общение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	SpaceAfter=No
+19	?	?	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
+
+# sent_id = 12
+# text = @pvl@
+1	@pvl@	@pvl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 13
+# text = ну после того как закончился этот наш отдых / мы потом общались очень долгое время по телефону / продолжали / да / общение по телефону
+1	ну	ну	PART	_	_	3	parataxis	_	_
+2	после	после	ADP	_	_	3	case	_	_
+3	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+4	как	как	SCONJ	_	_	5	advmod	_	_
+5	закончился	закончиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
+7	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
+8	отдых	отдых	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+9	/	/	PUNCT	_	_	12	punct	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	12	nsubj	_	_
+11	потом	потом	ADV	_	Degree=Pos	12	advmod	_	_
+12	общались	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	_
+13	очень	очень	ADV	_	Degree=Pos	14	obl	_	_
+14	долгое	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obl	_	_
+16	по	по	ADP	_	_	17	case	_	_
+17	телефону	телефон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	15	nmod	_	_
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	продолжали	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	xcomp	_	_
+20	/	/	PUNCT	_	_	23	punct	_	_
+21	да	да	PART	_	_	23	parataxis	_	_
+22	/	/	PUNCT	_	_	21	punct	_	_
+23	общение	общение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	parataxis	_	_
+24	по	по	ADP	_	_	25	case	_	_
+25	телефону	телефон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	23	nmod	_	SpacesAfter=\n\n
+
+# sent_id = 14
+# text = @vpl@
+1	@vpl@	@vpl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 15
+# text = сложно ли было поддерживать отношения на расстоянии?
+1	сложно	сложно	PRAEDIC	_	Degree=Pos	0	root	_	_
+2	ли	ли	PART	_	_	1	advmod	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	поддерживать	поддерживать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+5	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	расстоянии	расстояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# sent_id = 16
+# text = @pvl@
+1	@pvl@	@pvl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 17
+# text = вообще нет
+1	вообще	вообще	ADV	_	Degree=Pos	2	advmod	_	_
+2	нет	нет	!PART	_		0	root	_	SpacesAfter=\n\n
+
